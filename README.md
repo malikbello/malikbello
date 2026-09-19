@@ -1,9 +1,8 @@
 <div align="center">
-<img src="./headshot.jpg" width="150" style="border-radius:50%;" alt="Malik Pelumi Bello"/>
 
 # Malik Pelumi Bello
 
-**AI/ML Engineer** — agentic systems, causal inference, and African-language AI
+**AI/ML Engineer** — Agentic Systems, Causal Inference, and African-Language AI
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-malikbello.is--a.dev-f1c40f?style=flat-square)](https://malikbello.is-a.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-bello-data-scientist/)
@@ -17,7 +16,7 @@
 
 </div>
 
-I build production AI/ML systems in banking — agentic pipelines, fraud detection, and evaluation infrastructure — and spend my own time on AI that actually works for African languages and data.
+AI/ML Engineer building production systems in banking — agentic pipelines, fraud detection, and evaluation infrastructure — with an independent research and engineering focus on African-language AI.
 
 ### Stack
 
@@ -25,24 +24,24 @@ I build production AI/ML systems in banking — agentic pipelines, fraud detecti
 
 ---
 
-### 🤖 AI/ML Products
+### AI/ML Products
 
 - **[maya-ai-companion](https://github.com/HonTime2023/maya-ai-companion)** — voice-first personal AI companion on Deepgram's Voice Agent API, with health tracking, Spotify, Telegram, and emergency SOS.
 - **[AIDER](https://github.com/HonTime2023/AIDER)** — real-time AI disaster-early-response assistant for African communities; Kaggle Bronze Medal, Google GenAI 2025 Competition.
 - **[Intelligent-Document-Processing-System-with-Amazon-Bedrock](https://github.com/HonTime2023/Intelligent-Document-Processing-System-with-Amazon-Bedrock)** — document processing pipeline built on Amazon Bedrock.
 - **[malik-portfolio](https://github.com/HonTime2023/malik-portfolio)** — this portfolio site (Next.js, Tailwind, Framer Motion, Gemini-backed AI chat).
 
-### 📊 Data Analytics & Engineering
+### Data Analytics & Engineering
 
 - **[nyc-taxi-operations-intelligence](https://github.com/HonTime2023/nyc-taxi-operations-intelligence)** — NYC green-taxi demand and revenue intelligence: Python cleaning/EDA plus a SQL Server analytics model.
 - **[indeed-job-market-scraper](https://github.com/HonTime2023/indeed-job-market-scraper)** — proxy-backed Indeed scraper (Oxylabs API) with cleaned data and job-market insights.
 - **[3MTTshowcase](https://github.com/HonTime2023/3MTTshowcase)** — ESAAM: an Exploratory and Sensitivity Analysis App using a LightGBM model to predict the Multidimensional Poverty Index.
 
-### 🧮 Algorithms & Optimization
+### Algorithms & Optimization
 
 - **[Traveling-Salesman-Problem-MVP-variant-](https://github.com/HonTime2023/Traveling-Salesman-Problem-MVP-variant-)** — multi-agent Vehicle Routing Problem variant: ~3,957 geolocated points, 41 agents, workload-balanced route optimization.
 
-### 🎓 Teaching Projects
+### Teaching Projects
 
 - **[pybank-capstone](https://github.com/HonTime2023/pybank-capstone)** — CLI banking simulation covering Python fundamentals.
 - **[school-management-cli](https://github.com/HonTime2023/school-management-cli)** — layered Python CLI for student records, scores, and reports.
