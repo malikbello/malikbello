@@ -1,4 +1,5 @@
 <div align="center">
+<img src="./headshot.jpg" width="150" style="border-radius:50%;" alt="Malik Pelumi Bello"/>
 
 # Malik Pelumi Bello
 
@@ -16,7 +17,7 @@
 
 </div>
 
-I build production AI/ML systems in banking — agentic pipelines, fraud detection, and evaluation infrastructure — and spend my own time on AI that actually works for African languages and data, from fine-tuned models to graph-based fraud detection to voice tech that handles code-switching properly.
+I build production AI/ML systems in banking — agentic pipelines, fraud detection, and evaluation infrastructure — and spend my own time on AI that actually works for African languages and data.
 
 ### Stack
 
@@ -24,32 +25,24 @@ I build production AI/ML systems in banking — agentic pipelines, fraud detecti
 
 ---
 
-## 🌍 African-Language AI
+### 🤖 AI/ML Products
 
+- **[maya-ai-companion](https://github.com/HonTime2023/maya-ai-companion)** — voice-first personal AI companion on Deepgram's Voice Agent API, with health tracking, Spotify, Telegram, and emergency SOS.
 - **[AIDER](https://github.com/HonTime2023/AIDER)** — real-time AI disaster-early-response assistant for African communities; Kaggle Bronze Medal, Google GenAI 2025 Competition.
-- *In progress: Alaye (transaction-purpose inference for African banking), Omowe (AI mentor platform), code-switch-aware and telephony-robust ASR, tonal Yoruba/Igbo TTS, a fine-tuned Nigerian Pidgin financial model.*
+- **[Intelligent-Document-Processing-System-with-Amazon-Bedrock](https://github.com/HonTime2023/Intelligent-Document-Processing-System-with-Amazon-Bedrock)** — document processing pipeline built on Amazon Bedrock.
+- **[malik-portfolio](https://github.com/HonTime2023/malik-portfolio)** — this portfolio site (Next.js, Tailwind, Framer Motion, Gemini-backed AI chat).
 
-## 🕸️ Graph Neural Networks
-
-- *In progress: heterophily-aware AML detection, malware classification via control-flow graphs, protein-ligand binding prediction, temporal/social-network fraud-ring detection.*
-
-## 📊 Causal Inference & Applied Analytics
+### 📊 Data Analytics & Engineering
 
 - **[nyc-taxi-operations-intelligence](https://github.com/HonTime2023/nyc-taxi-operations-intelligence)** — NYC green-taxi demand and revenue intelligence: Python cleaning/EDA plus a SQL Server analytics model.
 - **[indeed-job-market-scraper](https://github.com/HonTime2023/indeed-job-market-scraper)** — proxy-backed Indeed scraper (Oxylabs API) with cleaned data and job-market insights.
+- **[3MTTshowcase](https://github.com/HonTime2023/3MTTshowcase)** — ESAAM: an Exploratory and Sensitivity Analysis App using a LightGBM model to predict the Multidimensional Poverty Index.
+
+### 🧮 Algorithms & Optimization
+
 - **[Traveling-Salesman-Problem-MVP-variant-](https://github.com/HonTime2023/Traveling-Salesman-Problem-MVP-variant-)** — multi-agent Vehicle Routing Problem variant: ~3,957 geolocated points, 41 agents, workload-balanced route optimization.
-- *In progress: causal inference on African financial-inclusion data, offline RL for consumer credit decisions.*
 
-## 🏗️ MLOps, Infrastructure & Tooling
+### 🎓 Teaching Projects
 
-- *In progress: an agentic-reliability benchmark, a streaming feature store for fraud, a full fraud-detection MLOps cycle (Airflow/MLflow/Prometheus/Grafana), production LLM observability (Opik), a RAG evaluation framework, an African-language model comparison arena, and a model deployment-readiness scorecard.*
-
-## 🛠️ Products
-
-- **[malik-portfolio](https://github.com/HonTime2023/malik-portfolio)** — this portfolio site (Next.js, Tailwind, Framer Motion, Gemini-backed AI chat).
-- **[maya-ai-companion](https://github.com/HonTime2023/maya-ai-companion)** — voice-first personal AI companion on Deepgram's Voice Agent API, with health tracking, Spotify, Telegram, and emergency SOS.
-- *In progress: an open-source CEM platform for African languages, a fan-facing football decision-verifier, medical-records and Ajami-manuscript OCR.*
-
----
-
-*(GitHub's "pinned repos" grid — the row shown at the top of the profile page — is set separately, from Settings → Customize your pins. The sections above are a fuller map of everything shipped or in progress; pin whichever handful you want most visible up top.)*
+- **[pybank-capstone](https://github.com/HonTime2023/pybank-capstone)** — CLI banking simulation covering Python fundamentals.
+- **[school-management-cli](https://github.com/HonTime2023/school-management-cli)** — layered Python CLI for student records, scores, and reports.
