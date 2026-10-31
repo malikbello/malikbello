@@ -24,6 +24,10 @@ AI/ML Engineer building production systems in banking — agentic pipelines, fra
 
 ---
 
+### Open Source
+
+- **[FilmCraft](https://github.com/storytold/filmcraft)** (Rust video editor, 17k stars): diagnosed a start-up GPU crash on Intel Gen 9 laptops ([#1458](https://github.com/storytold/filmcraft/issues/1458)): Intel's Vulkan driver crashed at launch, and DirectX 12 silently fell back to the CPU. The report and its measurements were cited by the fixes ([#2138](https://github.com/storytold/filmcraft/pull/2138), [#2139](https://github.com/storytold/filmcraft/pull/2139)). Wrote a reviewed, tested workaround ([#1509](https://github.com/storytold/filmcraft/pull/1509)), then verified the fix on the affected hardware.
+
 ### AI/ML Products
 
 - **[maya-ai-companion](https://github.com/HonTime2023/maya-ai-companion)** — voice-first personal AI companion on Deepgram's Voice Agent API, with health tracking, Spotify, Telegram, and emergency SOS.
