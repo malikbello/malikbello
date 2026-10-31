@@ -24,24 +24,28 @@ AI/ML Engineer building production systems in banking — agentic pipelines, fra
 
 ---
 
+### Open Source
+
+- **[FilmCraft](https://github.com/storytold/filmcraft)** (Rust video editor, 17k stars): diagnosed a start-up GPU crash on Intel Gen 9 laptops ([#1458](https://github.com/storytold/filmcraft/issues/1458)): Intel's Vulkan driver crashed at launch, and DirectX 12 silently fell back to the CPU. The report and its measurements were cited by the fixes ([#2138](https://github.com/storytold/filmcraft/pull/2138), [#2139](https://github.com/storytold/filmcraft/pull/2139)). Wrote a reviewed, tested workaround ([#1509](https://github.com/storytold/filmcraft/pull/1509)), then verified the fix on the affected hardware.
+
 ### AI/ML Products
 
-- **[maya-ai-companion](https://github.com/HonTime2023/maya-ai-companion)** — voice-first personal AI companion on Deepgram's Voice Agent API, with health tracking, Spotify, Telegram, and emergency SOS.
-- **[AIDER](https://github.com/HonTime2023/AIDER)** — real-time AI disaster-early-response assistant for African communities; Kaggle Bronze Medal, Google GenAI 2025 Competition.
-- **[Intelligent-Document-Processing-System-with-Amazon-Bedrock](https://github.com/HonTime2023/Intelligent-Document-Processing-System-with-Amazon-Bedrock)** — document processing pipeline built on Amazon Bedrock.
-- **[malik-portfolio](https://github.com/HonTime2023/malik-portfolio)** — this portfolio site (Next.js, Tailwind, Framer Motion, Gemini-backed AI chat).
+- **[maya-ai-companion](https://github.com/malikbello/maya-ai-companion)** — voice-first personal AI companion on Deepgram's Voice Agent API, with health tracking, Spotify, Telegram, and emergency SOS.
+- **[AIDER](https://github.com/malikbello/AIDER)** — real-time AI disaster-early-response assistant for African communities; Kaggle Bronze Medal, Google GenAI 2025 Competition.
+- **[Intelligent-Document-Processing-System-with-Amazon-Bedrock](https://github.com/malikbello/Intelligent-Document-Processing-System-with-Amazon-Bedrock)** — document processing pipeline built on Amazon Bedrock.
+- **[malik-portfolio](https://github.com/malikbello/malik-portfolio)** — this portfolio site (Next.js, Tailwind, Framer Motion, Gemini-backed AI chat).
 
 ### Data Analytics & Engineering
 
-- **[nyc-taxi-operations-intelligence](https://github.com/HonTime2023/nyc-taxi-operations-intelligence)** — NYC green-taxi demand and revenue intelligence: Python cleaning/EDA plus a SQL Server analytics model.
-- **[indeed-job-market-scraper](https://github.com/HonTime2023/indeed-job-market-scraper)** — proxy-backed Indeed scraper (Oxylabs API) with cleaned data and job-market insights.
-- **[3MTTshowcase](https://github.com/HonTime2023/3MTTshowcase)** — ESAAM: an Exploratory and Sensitivity Analysis App using a LightGBM model to predict the Multidimensional Poverty Index.
+- **[nyc-taxi-operations-intelligence](https://github.com/malikbello/nyc-taxi-operations-intelligence)** — NYC green-taxi demand and revenue intelligence: Python cleaning/EDA plus a SQL Server analytics model.
+- **[indeed-job-market-scraper](https://github.com/malikbello/indeed-job-market-scraper)** — proxy-backed Indeed scraper (Oxylabs API) with cleaned data and job-market insights.
+- **[3MTTshowcase](https://github.com/malikbello/3MTTshowcase)** — ESAAM: an Exploratory and Sensitivity Analysis App using a LightGBM model to predict the Multidimensional Poverty Index.
 
 ### Algorithms & Optimization
 
-- **[Traveling-Salesman-Problem-MVP-variant-](https://github.com/HonTime2023/Traveling-Salesman-Problem-MVP-variant-)** — multi-agent Vehicle Routing Problem variant: ~3,957 geolocated points, 41 agents, workload-balanced route optimization.
+- **[Traveling-Salesman-Problem-MVP-variant-](https://github.com/malikbello/Traveling-Salesman-Problem-MVP-variant-)** — multi-agent Vehicle Routing Problem variant: ~3,957 geolocated points, 41 agents, workload-balanced route optimization.
 
 ### Teaching Projects
 
-- **[pybank-capstone](https://github.com/HonTime2023/pybank-capstone)** — CLI banking simulation covering Python fundamentals.
-- **[school-management-cli](https://github.com/HonTime2023/school-management-cli)** — layered Python CLI for student records, scores, and reports.
+- **[pybank-capstone](https://github.com/malikbello/pybank-capstone)** — CLI banking simulation covering Python fundamentals.
+- **[school-management-cli](https://github.com/malikbello/school-management-cli)** — layered Python CLI for student records, scores, and reports.
