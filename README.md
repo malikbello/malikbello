@@ -18,6 +18,8 @@
 
 AI/ML Engineer building production systems in banking — agentic pipelines, fraud detection, and evaluation infrastructure — with an independent research and engineering focus on African-language AI.
 
+🏆 **Winner, Best Use of Microsoft Foundry**, Microsoft × Premier League Inside the Game Developer Hackathon 2026, out of 804 projects from 2,031 developers, for [Matchcut](https://github.com/malikbello/matchcut) ([Microsoft's announcement](https://techcommunity.microsoft.com/blog/azure-events/announcing-the-inside-the-game-developer-hackathon-winners/4574639)).
+
 ### Stack
 
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/Microsoft_Agent_Framework-f1c40f?style=flat-square&logo=microsoft&logoColor=04160e" alt="Microsoft Agent Framework"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/> <img src="https://img.shields.io/badge/Microsoft_Fabric-f1c40f?style=flat-square&logo=microsoft&logoColor=04160e" alt="Microsoft Fabric"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> </p>
@@ -30,6 +32,7 @@ AI/ML Engineer building production systems in banking — agentic pipelines, fra
 
 ### AI/ML Products
 
+- **[matchcut](https://github.com/malikbello/matchcut)**: every fan's cut of the game. Verified live match insight on a 3D broadcast show, and a voiced, captioned, audio-described highlights film for every fan in seven languages, on Microsoft Foundry and Azure Container Apps. Winner, Best Use of Microsoft Foundry. [Demo film](https://youtu.be/7ei7k6i2XI0).
 - **[maya-ai-companion](https://github.com/malikbello/maya-ai-companion)** — voice-first personal AI companion on Deepgram's Voice Agent API, with health tracking, Spotify, Telegram, and emergency SOS.
 - **[AIDER](https://github.com/malikbello/AIDER)** — real-time AI disaster-early-response assistant for African communities; Kaggle Bronze Medal, Google GenAI 2025 Competition.
 - **[Intelligent-Document-Processing-System-with-Amazon-Bedrock](https://github.com/malikbello/Intelligent-Document-Processing-System-with-Amazon-Bedrock)** — document processing pipeline built on Amazon Bedrock.
